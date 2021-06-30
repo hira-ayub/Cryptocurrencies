@@ -18,7 +18,7 @@ This shows 532 cryptocurrencies are currently unlocked (totalcoinsmind).
 
 Data classified into 4 groups and from results BitTorrent is the clear outlier while the other 3 clusters have relatively clear boundaries
 
-![Cluster](Resources/Cluster.PNG)
+![Cluster](https://github.com/hira-ayub/Cryptocurrencies/blob/main/Resources/Cluster.png)
 
 
 
